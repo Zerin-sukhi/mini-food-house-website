@@ -14,7 +14,16 @@ const Cart = (props) => {
             <div>
                 <h2>Todays Sell</h2>
                 <h4>Ordered food:{props.cart.length}</h4>
-                <p><small>Food Name:{cart.name}</small></p>
+                <table>
+                    <tr>
+                        <td>{
+                            props.cart.map((cart => {
+                                return <li>Name: {cart.name}</li>
+                            }))
+                        }
+                        </td>
+                    </tr>
+                </table>
                 <p>Total:{total}</p>
                 <button>Buy Now</button>
             </div>
