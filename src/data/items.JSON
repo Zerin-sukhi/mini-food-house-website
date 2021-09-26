@@ -7,7 +7,7 @@ const items = [
         "rating": 3,
         "img": "https://assets.bonappetit.com/photos/5d1cb1880813410008e914fc/master/pass/Print-Summer-Smash-Burger.jpg",
         "price": 20.00,
-        "preserved-hour": 24
+        "preserved": 24
     },
     {
         "key": "A2",
@@ -17,7 +17,7 @@ const items = [
         "rating": 4,
         "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?s=612x612",
         "price": 50.00,
-        "preserved-hour": 24
+        "preserved": 24
     },
     {
         "key": "A3",
@@ -25,9 +25,9 @@ const items = [
         "cooked": "ruba",
         "stock": 10,
         "rating": 3,
-        "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?s=612x612",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFWnZ_w2jQfMBKTgpBG0_URM5Cx94B5BcrA&usqp=CAU",
         "price": 80.00,
-        "preserved-hour": 12
+        "preserved": 12
     },
     {
         "key": "A4",
@@ -37,7 +37,7 @@ const items = [
         "rating": 4.5,
         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg?quality=45&resize=960,872",
         "price": 70.00,
-        "preserved-hour": 12
+        "preserved": 12
     },
     {
         "key": "A5",
@@ -47,7 +47,7 @@ const items = [
         "rating": 5,
         "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
         "price": 120.00,
-        "preserved-hour": 20
+        "preserved": 20
     },
     {
         "key": "A6",
@@ -55,9 +55,9 @@ const items = [
         "cooked": "marium",
         "stock": 20,
         "rating": 5,
-        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5WaxVbIWXUXWWcARL6da5f0hJ9dFGLP59GQ&usqp=CAU",
         "price": 80.00,
-        "preserved-hour": 24
+        "preserved": 24
     },
     {
         "key": "A7",
@@ -65,9 +65,9 @@ const items = [
         "cooked": "mahbub",
         "stock": 50,
         "rating": 5,
-        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyi_FJH65-fHAm2_gm4ib3SMphaeXClKEFqw&usqp=CAU",
         "price": 80.00,
-        "preserved-hour": 72
+        "preserved": 72
     },
     {
         "key": "A8",
@@ -75,9 +75,9 @@ const items = [
         "cooked": "munim",
         "stock": 100,
         "rating": 5,
-        "img": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/da910fada77b-3.png",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbsH0ss1AbK2RKeW3vxZTFCXkuORj6j7LJrfoH60nxUVY627hLAzs-GFKSd3za1ygDXY&usqp=CAU",
         "price": 40.00,
-        "preserved-hour": 12
+        "preserved": 12
     },
     {
         "key": "A9",
@@ -87,7 +87,7 @@ const items = [
         "rating": 5,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyyeRAXFRPrEawKoIsUuqIujuAriL9zjV1Q&usqp=CAU",
         "price": 10.00,
-        "preserved-hour": 5
+        "preserved": 5
     },
     {
         "key": "A10",
@@ -97,7 +97,7 @@ const items = [
         "rating": 5,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqNkIdMpS-N7Mu7Pbj-g23SVqLD4zhQ-tUg&usqp=CAU",
         "price": 10.00,
-        "preserved-hour": 5
+        "preserved": 5
     },
     {
         "key": "A11",
@@ -107,7 +107,7 @@ const items = [
         "rating": 5,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnfu1AMrcK0gEnQlB7nbnI93RevkT9dC6Fw&usqp=CAU",
         "price": 30.00,
-        "preserved-hour": 5
+        "preserved": 5
     },
     {
         "key": "A12",
@@ -117,6 +117,6 @@ const items = [
         "rating": 5,
         "img": "https://www.observerbd.com/2017/10/07/1507393271.jpg",
         "price": 40.00,
-        "preserved-hour": 5
+        "preserved": 5
     },
 ]
